@@ -1,10 +1,11 @@
 123.hp.com/setup | Hp.com
 =======================================
 
+
 .. image:: setuphpprinter.png
-     :width: 300px    
+     :width: 400px    
      :align: center 
-     :height: 50px
+     :height: 800px
      :alt: Set Up Your HP Printer: 123.hp.com/setup
      :target: 
 
