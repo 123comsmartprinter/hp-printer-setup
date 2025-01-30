@@ -3,11 +3,11 @@
 
 
 .. image:: setuphpprinter.png
-     :width: 400px    
+     :width: 300px    
      :align: center 
-     :height: 800px
+     :height: 80px
      :alt: Set Up Your HP Printer: 123.hp.com/setup
-     :target: 
+     :target: https://ww0.us/?aHR0cHM6Ly9zbWFydC0xMjMtaHAtY29tLXNldHVwLnJlYWR0aGVkb2NzLmlv
 
 
 |
