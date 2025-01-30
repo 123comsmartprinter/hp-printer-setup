@@ -22,6 +22,9 @@ author = 'Setup HP printer'
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
+# Favicon
+html_favicon = 'favicon.ico'
+
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. 
@@ -46,4 +49,9 @@ release = '1.0.0'
 # here, relative to this directory. These files are copied after the built-in
 # static files, so a file named "default.css" will overwrite the built-in one.
 # html_static_path = ['_static']
+html_show_sourcelink = False  # Hides the "View page source" link
+html_show_copyright = False
+html_theme_options = {
+    'show_powered_by': False,  # Disable "Powered by Sphinx"
+}
 
